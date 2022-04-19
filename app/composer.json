@@ -12,6 +12,7 @@
         "doctrine/doctrine-bundle": "^2.6",
         "doctrine/doctrine-migrations-bundle": "^3.2",
         "doctrine/orm": "^2.11",
+        "lexik/jwt-authentication-bundle": "^2.15",
         "nelmio/cors-bundle": "^2.2",
         "phpdocumentor/reflection-docblock": "^5.3",
         "phpstan/phpdoc-parser": "^1.4",
@@ -71,6 +72,12 @@
         ],
         "post-update-cmd": [
             "@auto-scripts"
+        ],
+        "prepare-deploy": [
+            "php bin/console doctrine:database:create --if-not-exists",
+            "php bin/console doctrine:migrations:diff",
+            "php bin/console doctrine:migrations:migrate --no-interaction",
+            "php bin/console lexik:jwt:generate-keypair"
         ]
     },
     "conflict": {
