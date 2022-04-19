@@ -75,10 +75,11 @@
             "@auto-scripts"
         ],
         "prepare-deploy": [
+            "php bin/console doctrine:database:drop -f --if-exists",
             "php bin/console doctrine:database:create --if-not-exists",
             "php bin/console doctrine:migrations:diff",
             "php bin/console doctrine:migrations:migrate --no-interaction",
-            "php bin/console lexik:jwt:generate-keypair"
+            "php bin/console lexik:jwt:generate-keypair --overwrite"
         ]
     },
     "conflict": {
