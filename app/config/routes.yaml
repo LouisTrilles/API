@@ -1,0 +1,3 @@
+login:
+   path: /api/login
+   methods: ["POST"]
