@@ -9,7 +9,6 @@
 /vendor/
 /docker-compose.override.yml
 /docker-compose.yml
-/migrations
 ###< symfony/framework-bundle ###
 .idea
 ###> lexik/jwt-authentication-bundle ###
