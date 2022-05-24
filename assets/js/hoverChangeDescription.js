@@ -12,33 +12,33 @@ function hoverChangeDescription(nameCard, text) {
 
 hoverChangeDescription(
   ".html",
-  "HTML é uma linguagem baseada em marcação, onde marcamos os elementos para definir quais informações a página vai exibir."
+  "Docker is an operating system for containers. In the same way that a virtual machine virtualizes server hardware (i.e., it is no longer necessary to manage it directly), containers virtualize the operating system of a server."
 );
 hoverChangeDescription(
   ".css",
-  "CSS é uma linguagem de folha de estilo composta por “camadas”, criado com o propósito de estilizar as páginas HTML."
+  "Ansible is an Open Source software that allows to finely manage an IT infrastructure, automated multi-environment deployments, computers and system configurations."
 );
 hoverChangeDescription(
   ".js",
-  "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma."
+  "Windows PowerShell is an object-oriented automation engine and scripting language. With an interactive command interpreter, it is designed to help IT professionals configure systems and automate administration tasks."
 );
 hoverChangeDescription(
   ".sass",
-  "Sass (pré-processador css) é uma linguagem de folhas de estilo. É uma simples linguagem de script usada em arquivos Sass."
+  "Active Directory is Microsoft's implementation of LDAP directory services for Windows operating systems."
 );
 hoverChangeDescription(
   ".react",
-  "ReactJS é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web."
+  "VMware vSphere is a cloud computing infrastructure software from VMware, it is a type 1 hypervisor, based on the VMware ESXi architecture."
 );
 hoverChangeDescription(
   ".next",
-  "Next.js é uma estrutura da web que permite funcionalidades como renderização do lado do servidor e geração de sites estáticos para web baseados em React."
+  "MySQL is a relational database management system. It is distributed under a dual GPL and proprietary license."
 );
 hoverChangeDescription(
   ".styled",
-  "Styled Components é uma biblioteca que utiliza o conceito de CSS-in-JS, ou seja, que nos permite escrever códigos CSS dentro do Javascript."
+  "In software engineering, agile practices emphasize collaboration between self-organized, multidisciplinary teams and their clients."
 );
 hoverChangeDescription(
   ".tailwind",
-  "Tailwind CSS é um framework desenvolvido para maximizar o potencial do bom e velho CSS e levá-lo ainda mais longe."
+  "Git is a decentralized version control software. It is designed to be efficient with small projects as well as large ones."
 );
