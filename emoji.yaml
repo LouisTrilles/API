@@ -1,6 +1,196 @@
 title: Exotest
 emojis:
-  - name: ciaobella
-    src: https://emoji.slack-edge.com/T0XJVJY85/ciaobella/c8d1fc9f43c423b8.png
-  - name: download
-    src: https://emoji.slack-edge.com/T0XJVJY85/download/f0e45810e2117a78.png
+  - name: 42
+    src: https://emoji.slack-edge.com/T0XJVJY85/42/f72d4df43ee268a9.jpg
+  - name: 95
+    src: https://emoji.slack-edge.com/T0XJVJY85/95/4cdc6c4da855a52e.png
+  - name: 99
+    src: https://emoji.slack-edge.com/T0XJVJY85/99/67a6e3e727a37106.png
+  - name: 19323
+    src: https://emoji.slack-edge.com/T0XJVJY85/19323/81c913f6a1ec9bb9.jpg
+  - name: 1000000
+    src: https://emoji.slack-edge.com/T0XJVJY85/1000000/0e3383b3c61da2f8.png
+  - name: bowtie
+    src: https://emoji.slack-edge.com/T0XJVJY85/bowtie/f3ec6f2bb0.png
+  - name: squirrel
+    src: https://emoji.slack-edge.com/T0XJVJY85/squirrel/465f40c0e0.png
+  - name: glitch_crab
+    src: https://emoji.slack-edge.com/T0XJVJY85/glitch_crab/db049f1f9c.png
+  - name: piggy
+    src: https://emoji.slack-edge.com/T0XJVJY85/piggy/b7762ee8cd.png
+  - name: cubimal_chick
+    src: https://emoji.slack-edge.com/T0XJVJY85/cubimal_chick/85961c43d7.png
+  - name: dusty_stick
+    src: https://emoji.slack-edge.com/T0XJVJY85/dusty_stick/6177a62312.png
+  - name: slack
+    src: https://emoji.slack-edge.com/T0XJVJY85/slack/7d462d2443.png
+  - name: pride
+    src: https://emoji.slack-edge.com/T0XJVJY85/pride/56b1bd3388.png
+  - name: thumbsup_all
+    src: https://emoji.slack-edge.com/T0XJVJY85/thumbsup_all/50096a1020.png
+  - name: slack_call
+    src: https://emoji.slack-edge.com/T0XJVJY85/slack_call/b81fffd6dd.png
+  - name: simple_smile
+    src: https://emoji.slack-edge.com/80588/img/emoji_2017_12_06/apple/simple_smile.png
+  - name: neckbeard
+    src: https://emoji.slack-edge.com/T0XJVJY85/neckbeard/c8ec7bf188.png
+  - name: metal
+    src: https://emoji.slack-edge.com/T0XJVJY85/metal/9f936a4278.png
+  - name: fu
+    src: https://emoji.slack-edge.com/T0XJVJY85/fu/2f615de37f.png
+  - name: feelsgood
+    src: https://emoji.slack-edge.com/T0XJVJY85/feelsgood/7bcbaa15fa.png
+  - name: finnadie
+    src: https://emoji.slack-edge.com/T0XJVJY85/finnadie/08e66eb46d.png
+  - name: goberserk
+    src: https://emoji.slack-edge.com/T0XJVJY85/goberserk/d8b892d59b.png
+  - name: godmode
+    src: https://emoji.slack-edge.com/T0XJVJY85/godmode/1bd6476fbb.png
+  - name: hurtrealbad
+    src: https://emoji.slack-edge.com/T0XJVJY85/hurtrealbad/b9c3d648e6.png
+  - name: rage1
+    src: https://emoji.slack-edge.com/T0XJVJY85/rage1/0c3685290c.png
+  - name: rage2
+    src: https://emoji.slack-edge.com/T0XJVJY85/rage2/feaf8897c6.png
+  - name: rage3
+    src: https://emoji.slack-edge.com/T0XJVJY85/rage3/8e11678fbf.png
+  - name: rage4
+    src: https://emoji.slack-edge.com/T0XJVJY85/rage4/a8029a3996.png
+  - name: suspect
+    src: https://emoji.slack-edge.com/T0XJVJY85/suspect/ca4ab3c7c7.png
+  - name: trollface
+    src: https://emoji.slack-edge.com/T0XJVJY85/trollface/8c0ac4ae98.png
+  - name: octocat
+    src: https://emoji.slack-edge.com/T0XJVJY85/octocat/627964d7c9.png
+  - name: beryl
+    src: https://emoji.slack-edge.com/T0XJVJY85/beryl/efe1ba7e7a.png
+  - name: rube
+    src: https://emoji.slack-edge.com/T0XJVJY85/rube/74ef8ef199.png
+  - name: excellent
+    src: https://emoji.slack-edge.com/T0XJVJY85/excellent/bcc53f3e64bbe421.gif
+  - name: exograil
+    src: https://emoji.slack-edge.com/T0XJVJY85/exograil/75c806a586e7087d.jpg
+  - name: ninjaa
+    src: https://emoji.slack-edge.com/T0XJVJY85/ninjaa/136124838dcbeb3b.jpg
+  - name: pikaa
+    src: https://emoji.slack-edge.com/T0XJVJY85/pikaa/a04e0fa8d845db13.png
+  - name: goku
+    src: https://emoji.slack-edge.com/T0XJVJY85/goku/87dd34247fefcfe2.jpg
+  - name: veg
+    src: https://emoji.slack-edge.com/T0XJVJY85/veg/25a80d26dcc23251.jpg
+  - name: echeccritique
+    src: https://emoji.slack-edge.com/T0XJVJY85/echeccritique/1e60a715f3c82d41.png
+  - name: pls
+    src: https://emoji.slack-edge.com/T0XJVJY85/pls/8d4be0150d71e67b.png
+  - name: sadpepe
+    src: https://emoji.slack-edge.com/T0XJVJY85/sadpepe/fc11aaf10a0bb742.png
+  - name: pepepresident
+    src: https://emoji.slack-edge.com/T0XJVJY85/pepepresident/b083850957b0c9b4.jpg
+  - name: titre
+    src: https://emoji.slack-edge.com/T0XJVJY85/titre/470e8eb19f1197d0.png
+  - name: rouliane
+    src: https://emoji.slack-edge.com/T0XJVJY85/rouliane/d7d5fe647b0c86a9.png
+  - name: pepecringe
+    src: https://emoji.slack-edge.com/T0XJVJY85/pepecringe/0bc5b6bd5beea3c0.png
+  - name: plspro
+    src: https://emoji.slack-edge.com/T0XJVJY85/plspro/5654ee617cbe238f.png
+  - name: flutemaster
+    src: https://emoji.slack-edge.com/T0XJVJY85/flutemaster/72ed2a156a192e77.png
+  - name: cegenredemoji
+    src: https://emoji.slack-edge.com/T0XJVJY85/cegenredemoji/b5cbca217e5bf5c6.png
+  - name: eddymalou
+    src: https://emoji.slack-edge.com/T0XJVJY85/eddymalou/a28a2f13e8f80162.jpg
+  - name: tgo
+    src: https://emoji.slack-edge.com/T0XJVJY85/tgo/c407202bfde347bb.jpg
+  - name: roulianelafripouille
+    src: https://emoji.slack-edge.com/T0XJVJY85/roulianelafripouille/b8acb266753265ee.jpg
+  - name: niver
+    src: https://emoji.slack-edge.com/T0XJVJY85/niver/95acd325473b836e.jpg
+  - name: chouchen
+    src: https://emoji.slack-edge.com/T0XJVJY85/chouchen/ab6d1ed89d3d4dec.png
+  - name: bluescreen
+    src: https://emoji.slack-edge.com/T0XJVJY85/bluescreen/09795b8f62cd644f.jpg
+  - name: overspeeed
+    src: https://emoji.slack-edge.com/T0XJVJY85/overspeeed/fa0dcd0de5162b15.jpg
+  - name: surprisedcat
+    src: https://emoji.slack-edge.com/T0XJVJY85/surprisedcat/b6fdb6ee6c784dec.jpg
+  - name: maximumpls
+    src: https://emoji.slack-edge.com/T0XJVJY85/maximumpls/85186abe7f5e1e38.png
+  - name: keepinmind
+    src: https://emoji.slack-edge.com/T0XJVJY85/keepinmind/34c07b3bdf4e64ef.jpg
+  - name: kirbystyle
+    src: https://emoji.slack-edge.com/T0XJVJY85/kirbystyle/396686e307ce659f.gif
+  - name: carlton
+    src: https://emoji.slack-edge.com/T0XJVJY85/carlton/bf8d9986916875bf.gif
+  - name: grandmapls
+    src: https://emoji.slack-edge.com/T0XJVJY85/grandmapls/f39d657754d08120.jpg
+  - name: puzzleddavid
+    src: https://emoji.slack-edge.com/T0XJVJY85/puzzleddavid/e788f12c6ed36bf0.jpg
+  - name: summerbod
+    src: https://emoji.slack-edge.com/T0XJVJY85/summerbod/e6c661f5420b9567.jpg
+  - name: vdm
+    src: https://emoji.slack-edge.com/T0XJVJY85/vdm/11b9e53f853d3fcd.png
+  - name: magicvoila
+    src: https://emoji.slack-edge.com/T0XJVJY85/magicvoila/1ad28e8764f45113.jpg
+  - name: lippoutoute
+    src: https://emoji.slack-edge.com/T0XJVJY85/lippoutoute/26afdf2221880317.png
+  - name: impressedvillani
+    src: https://emoji.slack-edge.com/T0XJVJY85/impressedvillani/6b143598f973d27b.jpg
+  - name: exit
+    src: https://emoji.slack-edge.com/T0XJVJY85/exit/bb29c9d25c359e72.jpg
+  - name: sleepyeyes
+    src: https://emoji.slack-edge.com/T0XJVJY85/sleepyeyes/02e61ff70830e4ed.jpg
+  - name: muchusefulinfo
+    src: https://emoji.slack-edge.com/T0XJVJY85/muchusefulinfo/44223bfc530f3968.jpg
+  - name: missed
+    src: https://emoji.slack-edge.com/T0XJVJY85/missed/4f226361ed0bcca2.jpg
+  - name: slash
+    src: https://emoji.slack-edge.com/T0XJVJY85/slash/806bff9146599990.png
+  - name: bisous
+    src: https://emoji.slack-edge.com/T0XJVJY85/bisous/17c65b17e062483d.jpg
+  - name: badguyclement
+    src: https://emoji.slack-edge.com/T0XJVJY85/badguyclement/3a38f5a472061990.jpg
+  - name: jokingrouliane
+    src: https://emoji.slack-edge.com/T0XJVJY85/jokingrouliane/fadd85e729b5c46e.jpg
+  - name: suspiciousclement
+    src: https://emoji.slack-edge.com/T0XJVJY85/suspiciousclement/b52466b678d374dd.jpg
+  - name: italianwtf
+    src: https://emoji.slack-edge.com/T0XJVJY85/italianwtf/4fb2aab0adb8a4b9.png
+  - name: troll_yolo
+    src: https://emoji.slack-edge.com/T0XJVJY85/troll_yolo/3150fb5e7fc85922.png
+  - name: yolo
+    src: https://emoji.slack-edge.com/T0XJVJY85/yolo/e540b51ebd6b1b96.png
+  - name: boriing
+    src: https://emoji.slack-edge.com/T0XJVJY85/boriing/21ebd745daf04e2b.png
+  - name: kingstyle
+    src: https://emoji.slack-edge.com/T0XJVJY85/kingstyle/2a107485373685d2.png
+  - name: safetywins
+    src: https://emoji.slack-edge.com/T0XJVJY85/safetywins/c483e796f17c1117.png
+  - name: doctor_brown
+    src: https://emoji.slack-edge.com/T0XJVJY85/doctor_brown/6e9811a8a1ed8de0.jpg
+  - name: dismenmoins
+    src: https://emoji.slack-edge.com/T0XJVJY85/dismenmoins/39af1eaf08b894b4.jpg
+  - name: jackyetchan
+    src: https://emoji.slack-edge.com/T0XJVJY85/jackyetchan/9da63fbabbdd59cd.png
+  - name: blue0
+    src: https://emoji.slack-edge.com/T0XJVJY85/blue0/cc2a211657d93732.png
+  - name: blue
+    src: https://emoji.slack-edge.com/T0XJVJY85/blue/6b598e22e6988336.png
+  - name: blue1
+    src: https://emoji.slack-edge.com/T0XJVJY85/blue1/6b598e22e6988336.png
+  - name: blue2
+    src: https://emoji.slack-edge.com/T0XJVJY85/blue2/aef88e6fa901b559.png
+  - name: blue3
+    src: https://emoji.slack-edge.com/T0XJVJY85/blue3/647129f0c9cd6a52.png
+  - name: blue4
+    src: https://emoji.slack-edge.com/T0XJVJY85/blue4/1aa0e7277537eaf9.png
+  - name: snookerdavid
+    src: https://emoji.slack-edge.com/T0XJVJY85/snookerdavid/dd7c6c9405f090a7.jpg
+  - name: maniacdavid
+    src: https://emoji.slack-edge.com/T0XJVJY85/maniacdavid/8b79522f5e80b91a.jpg
+  - name: fayot
+    src: https://emoji.slack-edge.com/T0XJVJY85/fayot/359a896be45a18d3.png
+  - name: nooob
+    src: https://emoji.slack-edge.com/T0XJVJY85/nooob/b0a13cc6559fc18b.png
+  - name: lolpls
+    src: https://emoji.slack-edge.com/T0XJVJY85/lolpls/3c8b4ccce1faae89.png
